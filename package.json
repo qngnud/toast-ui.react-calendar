@@ -53,10 +53,9 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "^3.1.14",
-    "tui-release-notes": "git+https://github.com/nhn/tui.release-notes.git"
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "tui-calendar": "^1.12.5"
+    "tui-calendar": "git+https://github.com/qngnud/tui.calendar.git"
   }
 }
